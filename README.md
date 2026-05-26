@@ -11,8 +11,7 @@ This repository contains a Deep Learning project focused on multi-class image cl
 
 
 
-##  Highlights
-- Utilizes hardware acceleration (CUDA/GPU) for efficient training.
-- Preserves class balance during data splitting using stratified techniques.
-- Evaluates model performance using comprehensive metrics like confusion matrix and classification reports.
+## References
+The methodology and concepts applied in this project were inspired by the following research paper:
+- [Remote sensing image scene classification using CNN-MLP with  data augmentation](https://www.sciencedirect.com/science/article/abs/pii/S003040262031192X) by  Shawky et al. (2020).
 
